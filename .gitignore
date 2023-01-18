@@ -1,0 +1,10 @@
+vault.hclic
+*.key
+*.crt
+*.srl
+*.conf
+*.csr
+*.json
+raft/
+vault.db
+node-id
