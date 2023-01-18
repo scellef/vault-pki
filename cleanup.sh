@@ -7,6 +7,9 @@ LIST_OF_FILES="
   ./*.conf
   ./*.json
   ./*.srl
+  ./vault.db
+  ./node-id
 "
 
 rm -f $LIST_OF_FILES
+rm -rf ./raft/
